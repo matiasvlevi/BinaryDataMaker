@@ -1,4 +1,4 @@
-const { makeData } = require('binary_data_maker');
+const { makeData } = require('./index.js');
 
 let data = makeData(4);
 console.log(data);
