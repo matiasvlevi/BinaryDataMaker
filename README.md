@@ -4,6 +4,11 @@
 ### What it does:
 You can create any binary dataset following any logic rule. 
 <br/><br/><br/>
+## Node Install
+```js
+npm i binary_data_maker
+```
+
 
 # Getting Started
 require the function this way:
