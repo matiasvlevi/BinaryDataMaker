@@ -1,5 +1,5 @@
 {
-  "name": "binarycount_dataset",
+  "name": "binary_data_maker",
   "version": "0.9.0",
   "description": "This is allows you to create a binary dataset to train a neural network to count in binary.",
   "main": "index.js",

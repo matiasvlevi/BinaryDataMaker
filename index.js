@@ -23,6 +23,8 @@ function numberToBinary(x,size) {
     }
     return arr;
 }
+
+
 function makeData(bitsize, afunc) {
     let func;
     if (afunc !== undefined) {
